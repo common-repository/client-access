@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Client Access\n"
+"POT-Creation-Date: 2015-08-06 07:34-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Li-An <lian00@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: client-access.php:218 welcome/about-client-access.php:2
+msgid "Settings"
+msgstr "Réglages"
+
+#: client-access.php:219 settings.php:44 welcome/about-client-access.php:36
+#: welcome/whats-new-client-access.php:13
+msgid "Add-ons"
+msgstr "Extensions"
+
+#: lib/lumber/lumber.php:408
+msgid "-- Select a Value --"
+msgstr "-- Sélectionnez une valeur --"
+
+#: lib/lumber/lumber.php:879
+msgid "Upload"
+msgstr "Upload"
+
+#: lib/lumber/lumber.php:883
+msgid "Remove"
+msgstr "Supprimer"
+
+#: lib/quilt/quilt.php:98
+msgid "Options saved."
+msgstr "Options sauvegardées."
+
+#: lib/quilt/quilt.php:313
+msgid "Thank you for using Quilt."
+msgstr "Merci d'utiliser Quilt."
+
+#: lib/quilt/quilt.php:333
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: lib/quilt/quilt.php:335
+msgid "Reset Values"
+msgstr "Réinitialiser les valeurs"
+
+#: lib/quilt/quilt.php:339
+msgid "Restore ALL Default Values"
+msgstr "Restaurer TOUTES les valeurs par défaut"
+
+#: lib/quilt/quilt.php:663
+msgid "Activate"
+msgstr "Activer"
+
+#: lib/quilt/quilt.php:671
+msgid "Active"
+msgstr "Actif"
+
+#: lib/quilt/quilt.php:672
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: lib/quilt/quilt.php:675
+msgid "Inactive"
+msgstr "Inactif"
+
+#: lib/quilt/quilt.php:753
+msgid "This will delete your current settings and restore the defaults."
+msgstr ""
+"Cette opération va supprimer vos paramètres actuels et restaurer les "
+"paramètres par défaut."
+
+#: lib/zm-welcome/zm-welcome.php:200
+msgid "Thank you for installing"
+msgstr "Merci pour l'installation"
+
+#: settings.php:39
+msgid "Thank you for using Client Access"
+msgstr "Merci d&#39;utiliser Client Access"
+
+#: settings.php:42
+msgid "Support"
+msgstr "Aide"
+
+#: src/AllowByIp/AllowByIp.php:31 welcome/about-client-access.php:23
+msgid "Allow by IP"
+msgstr "Autoriser par IP"
+
+#: src/AllowByIp/AllowByIp.php:35 src/AllowByRole/AllowByRole.php:33
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:38
+msgid "Enable"
+msgstr "Activer"
+
+#: src/AllowByIp/AllowByIp.php:37
+msgid ""
+"By checking this option, only the allowed IPs will have access to this "
+"website"
+msgstr ""
+"En cochant cette option, seules les adresses IP autorisées auront accès à ce "
+"site"
+
+#: src/AllowByIp/AllowByIp.php:41 src/AllowByRole/AllowByRole.php:39
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:62
+msgid "Default Message"
+msgstr "Message par défaut"
+
+#: src/AllowByIp/AllowByIp.php:43
+msgid "Your IP {ip_address} address is not allowed."
+msgstr "Votre adresse IP {ip_address} adresse n'est pas autorisée."
+
+#: src/AllowByIp/AllowByIp.php:44
+msgid "You may use the following tags {ip_address}."
+msgstr "Vous pouvez utiliser les balises suivantes {ip_address}."
+
+#: src/AllowByIp/AllowByIp.php:48 src/AllowByRole/AllowByRole.php:46
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:69
+msgid "Footer Message"
+msgstr "Message en pied de page"
+
+#: src/AllowByIp/AllowByIp.php:50
+msgid "IP Address: {ip_address}"
+msgstr "Adresse IP: {ip_address}"
+
+#: src/AllowByIp/AllowByIp.php:51
+msgid ""
+"Displayed at the bottom of the page for unauthorized users. You may use the "
+"following tags {ip_address}."
+msgstr ""
+"Affiché au bas de la page pour les utilisateurs non autorisés. Vous pouvez "
+"utiliser les balises suivantes {ip_address}."
+
+#: src/AllowByIp/AllowByIp.php:55
+msgid "Allowed IPs"
+msgstr "IP autorisées"
+
+#: src/AllowByIp/AllowByIp.php:56
+msgid ""
+"Enter each IP address on a new line. Note, you will need to add your current "
+"IP address: "
+msgstr ""
+"Entrez chaque adresse IP sur une nouvelle ligne. Notez que vous aurez besoin "
+"d&#39;ajouter votre adresse IP actuelle:"
+
+#: src/AllowByRole/AllowByRole.php:29
+msgid "Allow by Role"
+msgstr "Autoriser par rôle"
+
+#: src/AllowByRole/AllowByRole.php:35
+msgid ""
+"By checking this option, only the allowed roles will have access to this "
+"website."
+msgstr ""
+"En cochant cette option, seuls les rôles autorisés auront accès à ce site"
+
+#: src/AllowByRole/AllowByRole.php:41
+msgid "Only logged in users with the following role(s): {roles} are allowed."
+msgstr ""
+"Seuls les utilisateurs enregistrés avec le(s) rôle(s) suivant(s): {roles} "
+"sont autorisés."
+
+#: src/AllowByRole/AllowByRole.php:42
+msgid "You may use the following tags {roles}."
+msgstr "Vous pouvez utiliser les balises suivantes {roles}."
+
+#: src/AllowByRole/AllowByRole.php:48
+msgid "{site_name} is a private site, open to only certain roles."
+msgstr "{site_name} est un site privé, ouvert seulement à certains rôles."
+
+#: src/AllowByRole/AllowByRole.php:49
+msgid ""
+"Displayed at the bottom of the page for unauthorized users. You may use the "
+"following tags {site_name}, {roles}."
+msgstr ""
+"Affiché au bas de la page pour les utilisateurs non autorisés. Vous pouvez "
+"utiliser les balises suivantes {site_name}, {roles}."
+
+#: src/AllowByRole/AllowByRole.php:53
+msgid "Allowed Roles"
+msgstr "Rôles autorisées"
+
+#: src/AllowByRole/AllowByRole.php:54
+msgid "Please select the allowed roles (administrators are always allowed)."
+msgstr ""
+"Veuillez sélectionner les rôles autorisés (les administrateurs sont toujours "
+"autorisés)."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:34
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:43
+msgid "Universal Password"
+msgstr "Mot de passe universel"
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:45
+msgid "Your entire site will be blocked by single password."
+msgstr "L'ensemble de votre site sera bloqué par un mot de passe unique."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:49
+msgid "Expires"
+msgstr "Expire le"
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:50
+msgid ""
+"Please use the following format: 01-Jan, 14, 2015, 01:55. Once this time is "
+"reached the site will be accessible WITHOUT the password."
+msgstr ""
+"Veuillez utilisez le format suivant: 01-Jan, 14, 2015, 01:55. Une fois cette "
+"date atteinte, le site sera accessible sans mot de passe."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:64
+msgid "A password is required."
+msgstr "Mot de passe requis."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:65
+msgid "You may use the following tags {site_name}."
+msgstr "Vous pouvez utiliser les balises suivantes {site_name}."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:71
+msgid "{site_name} is password protected."
+msgstr "{site_name} est protégé par mot de passe."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:72
+msgid ""
+"Displayed at the bottom of the page for unauthorized users. You may use the "
+"following tags {site_name}."
+msgstr ""
+"Affiché au bas de la page pour les utilisateurs non autorisés. Vous pouvez "
+"utiliser les balises suivantes {site_name}."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:202
+msgid "One moment while we log you in."
+msgstr "Veuillez patienter le temps de la connexion."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:207
+msgid "Invalid password."
+msgstr "Mot de passe incorrect."
+
+#: src/AllowByUniversalPassword/AllowByUniversalPassword.php:363
+msgid "Submit"
+msgstr "Envoyer"
+
+#: welcome/about-client-access.php:3
+msgid ""
+"All settings are available via the WordPress admin under Settings > Client "
+"Access. With the settings you can customize the following:"
+msgstr ""
+"Tous les réglages sont disponibles via l&#39;admin WordPress dans Réglages > "
+"Client Access. Avec les réglages, vous pouvez personnaliser les éléments "
+"suivants:"
+
+#: welcome/about-client-access.php:5
+msgid ""
+"Allow by Role – Only logged in users with the roles you've selected can "
+"access the front-end."
+msgstr ""
+"Autoriser par rôle - Seuls les utilisateurs enregistrés avec les rôles que "
+"vous avez sélectionnés peuvent accéder au site en front-end."
+
+#: welcome/about-client-access.php:6
+msgid "Allow by IP – Only allowed IPs can access the front-end."
+msgstr ""
+"Autorisation par IP - Seules les IP autorisées peuvent accéder au front-end."
+
+#: welcome/about-client-access.php:7
+msgid ""
+"Allow by universal password – Only those you've shared the universal "
+"password with can access the front-end."
+msgstr ""
+"Autorisation par mot de passe universel - seuls les personnaes avec qui  "
+"vous avez partagé le mot de passe universel peuvent accéder au front-end."
+
+#: welcome/about-client-access.php:8
+msgid "Expire Password – Set the time at which the password will expire."
+msgstr ""
+"Expiration du mot de passe - Réglez le moment auquel le mot de passe expire."
+
+#: welcome/about-client-access.php:13
+msgid "Core Features"
+msgstr "Fonctionnalités de base"
+
+#: welcome/about-client-access.php:14
+msgid ""
+"Client Access supports the following core features. The core base of Client "
+"Access can easily be extended via add-ons."
+msgstr ""
+"Client Access prend en charge les fonctionnalités de base suivantes. Le "
+"noyau de base de Client Access peut facilement être étendu via des "
+"extensions."
+
+#: welcome/about-client-access.php:17
+msgid "Allow Administrators"
+msgstr "Autoriser les administrateurs"
+
+#: welcome/about-client-access.php:18
+msgid "Enabling the General option will allow only WordPress administrators."
+msgstr ""
+"Activater l'option simple autorisera uniquement les administrateurs "
+"WordPress."
+
+#: welcome/about-client-access.php:24
+msgid ""
+"Enable this option, and enter the IP address for each allowed IP. Users that "
+"are not allowed will see a default message that you provide."
+msgstr ""
+"Activez cette option, et entrez l&#39;adresse IP pour chaque IP autorisée. "
+"Les utilisateurs qui ne sont pas autorisés verront un message par défaut que "
+"vous fournissez."
+
+#: welcome/about-client-access.php:29
+msgid "Allow by Universal Password"
+msgstr "Autoriser par mot de passe universel"
+
+#: welcome/about-client-access.php:30
+msgid ""
+"Enable this option, and enter the universal password. This will only allow "
+"those that you have shared the password with."
+msgstr ""
+"Activez cette option et entrez le mot de passe universel. Ceci ne donnera "
+"l'accès qu'à ceux avec lesquels que vous avez partagé le mot de passe."
+
+#: welcome/about-client-access.php:37 welcome/whats-new-client-access.php:14
+msgid "The following add-ons extend the core functionality of Client Access."
+msgstr ""
+"Les extensions suivantes étendent les fonctionnalités de base de Client "
+"Access."
+
+#: welcome/about-client-access.php:40 welcome/whats-new-client-access.php:17
+msgid "Request Access"
+msgstr "Demande d'accès"
+
+#: welcome/about-client-access.php:41 welcome/whats-new-client-access.php:18
+msgid ""
+"Allow site visitors to request access. Once requested an email is sent to "
+"the admin, the admin approves by clicking a link. Once approved the visitor "
+"receives an email notifying they are approved! All emails are fully "
+"customizable."
+msgstr ""
+"Permettre aux visiteurs du site de demander l'accès. Une fois demandé un "
+"email est envoyé à l'administrateur, l'administrateur approuve en cliquant "
+"sur un lien. Une fois approuvé, le visiteur reçoit un e-mail informant qu'il "
+"est approuvé! Tous les e-mails sont entièrement personnalisables."
+
+#: welcome/about-client-access.php:47 welcome/whats-new-client-access.php:24
+msgid "Notification"
+msgstr "Notification"
+
+#: welcome/about-client-access.php:48 welcome/whats-new-client-access.php:25
+msgid ""
+"Allows WordPress admins to manually send an email informing their client "
+"that they can have been approved to view the website."
+msgstr ""
+"Permet aux administrateurs de WordPress d'envoyer un email manuellement oiyr "
+"informer leur client qu'ils peuvent ont été approuvés pour voir le site."
+
+#: welcome/about-client-access.php:54 welcome/whats-new-client-access.php:31
+msgid "License"
+msgstr "Licence"
+
+#: welcome/about-client-access.php:55 welcome/whats-new-client-access.php:32
+msgid ""
+"A FREE add-on that allows the additional add-ons to receive updates via a "
+"valid license. Updates are displayed on the WordPress admin dashboard."
+msgstr ""
+"Un add-on GRATUIT qui permet de recevoir des mises à jour des extensions "
+"additionnelles par l'intermédiaire d'une licence valide. Les mises à jour "
+"sont affichées sur le tableau de bord admin de WordPress."
+
+#: welcome/update-client-access.php:3 welcome/whats-new-client-access.php:3
+msgid "Fixing missing strings in translations"
+msgstr "Correction des chaînes manquantes dans les traductions"
+
+#: welcome/update-client-access.php:4 welcome/whats-new-client-access.php:4
+msgid "Minor styling updates to the footer, and links"
+msgstr "Mises à jour de style mineures pour les pied de page et les liens"
+
+#: welcome/update-client-access.php:5 welcome/whats-new-client-access.php:5
+msgid "Added additional hooks"
+msgstr "Hooks supplémentaires ajoutés"
+
+#: welcome/update-client-access.php:6 welcome/whats-new-client-access.php:6
+msgid "Site name tag now links to the home URL"
+msgstr "La chaîne Nom du site pointe désormais vers l'URL de la page home"
+
+#: welcome/update-client-access.php:7 welcome/whats-new-client-access.php:7
+msgid "Global for is allowed"
+msgstr "Global est autorisé"
+
+#: welcome/update-client-access.php:8 welcome/whats-new-client-access.php:8
+msgid "Welcome CSS is only loaded on welcome page"
+msgstr "Le CSS de Bienvenue est chargé uniquement sur la page d'accueil"
+
+#: welcome/update-client-access.php:13
+msgid "Initial release"
+msgstr "Version initiale"
+
+#: welcome/whats-new-client-access.php:1
+msgid ""
+"Whats new? Honestly not much. We've added additional hooks and some minor "
+"styling updates, detail below:"
+msgstr ""
+"Quoi de neuf? Honnêtement pas grand chose. Nous avons ajouté d'autres hooks "
+"et quelques mises à jour mineures de style, le détail ci-dessous:"
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid ""
+#~ "Check this option to block everyone except for logged in Administrators."
+#~ msgstr ""
+#~ "Cochez cette option pour bloquer tout le monde sauf pour les "
+#~ "administrateurs connectés."
+
+#~ msgid "This is the default message that is displayed."
+#~ msgstr "Ceci est le message affiché par défaut."
+
+#~ msgid "This site is not accessible."
+#~ msgstr "Ce site n'est pas accessible."
